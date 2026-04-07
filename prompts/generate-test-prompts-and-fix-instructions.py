@@ -459,7 +459,7 @@ def main() -> None:
     if not api_key:
         raise RuntimeError("OPENAI_API_KEY environment variable is not set.")
 
-    config = load_config("config.json")
+    config = load_config("prompts-and-instructions-config.js")
     vulnerability = get_vulnerability(config, vulnerability_id)
     pages = load_sources_for_vulnerability(config, vulnerability_id)
 
