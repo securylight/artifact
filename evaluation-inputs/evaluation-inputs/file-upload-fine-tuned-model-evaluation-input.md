@@ -1,6 +1,7 @@
 # File Upload Fine-Tuned Model Evaluation Input
 
 ## Sample 
+This sample was taken from the JSONL file used for evaluation.
 
 **Prompt**
 
