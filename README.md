@@ -31,9 +31,9 @@ This repository contains the anonymous artifact package accompanying the paper s
 
 ### `fine-tuning-data/`
 - `ssrf-fine-tuning-sample.jsonl`  
-  Representative excerpt from the SSRF fine-tuning dataset.
+  The SSRF fine-tuning dataset.
 - `file-upload-fine-tuning-sample.jsonl`  
-  Representative excerpt from the File Upload fine-tuning dataset.
+  The File Upload fine-tuning dataset.
 
 ### `evaluation-inputs/`
 - `ssrf-base-model-evaluation-input.json`
